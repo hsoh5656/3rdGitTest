@@ -1,5 +1,5 @@
 main()
 {
-print();
+pppprint();
 print();
 }
