@@ -1,5 +1,5 @@
 main()
 {
-print();
+qqqqprint();
 print();
 }
